@@ -1,0 +1,7 @@
+  /* for show */
+  html, body
+    height: 100%
+
+  body
+    background-color: "purple";
+    background: url(NM Show.jpg) 50% 50% / cover
