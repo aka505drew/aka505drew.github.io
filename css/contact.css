@@ -1,0 +1,19 @@
+.form-group{
+  display: block;
+  text-align: center;
+}
+
+.comment {
+  opacity: 0.5;
+}
+.comment.approved {
+  opacity: 1;
+}
+
+.container{
+  position: left
+}
+
+.container1{
+  position: right
+}

@@ -1,10 +1,14 @@
 .row{
   display: block;
-  position: absolute;
-  image: center;
+  position: center;
+}
+.container{
 
 }
+.container1{
+  padding-top: 35px;
 
+}
 .container2{
 
 }
@@ -20,9 +24,12 @@
 .container6{
 
 }
-.CONTAINER7{
+.container7{
 
 }
-.CONTAINER8{
+.container8{
+
+}
+.container9{
 
 }
